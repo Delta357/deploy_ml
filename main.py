@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
 import joblib
 
 # Carregar o modelo treinado e outros pré-processamentos necessários
